@@ -1,0 +1,17 @@
+C:\Users\rosma\source\repos\editor_rrc\obj\Debug\net6.0-windows\editor_rrc.csproj.AssemblyReference.cache
+C:\Users\rosma\source\repos\editor_rrc\obj\Debug\net6.0-windows\editor_rrc.Form1.resources
+C:\Users\rosma\source\repos\editor_rrc\obj\Debug\net6.0-windows\editor_rrc.csproj.GenerateResource.cache
+C:\Users\rosma\source\repos\editor_rrc\obj\Debug\net6.0-windows\editor_rrc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosma\source\repos\editor_rrc\obj\Debug\net6.0-windows\editor_rrc.AssemblyInfoInputs.cache
+C:\Users\rosma\source\repos\editor_rrc\obj\Debug\net6.0-windows\editor_rrc.AssemblyInfo.cs
+C:\Users\rosma\source\repos\editor_rrc\obj\Debug\net6.0-windows\editor_rrc.csproj.CoreCompileInputs.cache
+C:\Users\rosma\source\repos\editor_rrc\bin\Debug\net6.0-windows\editor_rrc.exe
+C:\Users\rosma\source\repos\editor_rrc\bin\Debug\net6.0-windows\editor_rrc.deps.json
+C:\Users\rosma\source\repos\editor_rrc\bin\Debug\net6.0-windows\editor_rrc.runtimeconfig.json
+C:\Users\rosma\source\repos\editor_rrc\bin\Debug\net6.0-windows\editor_rrc.dll
+C:\Users\rosma\source\repos\editor_rrc\bin\Debug\net6.0-windows\editor_rrc.pdb
+C:\Users\rosma\source\repos\editor_rrc\obj\Debug\net6.0-windows\editor_rrc.dll
+C:\Users\rosma\source\repos\editor_rrc\obj\Debug\net6.0-windows\refint\editor_rrc.dll
+C:\Users\rosma\source\repos\editor_rrc\obj\Debug\net6.0-windows\editor_rrc.pdb
+C:\Users\rosma\source\repos\editor_rrc\obj\Debug\net6.0-windows\editor_rrc.genruntimeconfig.cache
+C:\Users\rosma\source\repos\editor_rrc\obj\Debug\net6.0-windows\ref\editor_rrc.dll
